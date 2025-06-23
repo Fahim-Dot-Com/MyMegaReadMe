@@ -1,6 +1,6 @@
 # 🧠 Fahim's Developer Portfolio
 
-Welcome! I'm Fahim, an aspiring software engineer and tech enthusiast with experience across Python, JavaScript, HTML/CSS, React, and C#. This is a mega showcase of my 20 repositories, grouped by theme and explained with clarity — for mentors, employers, and curious visitors.
+Welcome! I'm Fahim, and I'm  aspiring to be a apprentice and I'm a tech enthusiast with experience across Python, JavaScript, HTML/CSS, React, and C#. This is a mega showcase of my 20 repositories, grouped by theme and explained with clarity — for mentors, employers, and curious visitors.
 
 ---
 
