@@ -63,9 +63,7 @@ Welcome! I'm Fahim, and I'm  aspiring to be a apprentice and I'm a tech enthusia
 | [MyFirstC-](https://github.com/Fahim-Dot-Com/MyFirstC-) | A simple first project in C# showcasing my intro to the language | C# |
 
 ---
-🗃️ SQL Mini Projects
-As I began exploring databases, SQL came naturally to me. These beginner projects are text-based simulations that highlight my understanding of relational databases, queries, and logic — and serve as a solid foundation for real-world backend or data tasks.
-
+## 🗃️ SQL Mini Projects
 
 | Project                                                   | Description                                                                        | Tech |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---- |
